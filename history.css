@@ -1,0 +1,68 @@
+body{
+  background-color: #555;
+}
+
+.container{
+  width: 1170px;
+  margin: auto;
+}
+
+.navbar{
+  background-color: #999;
+  overflow: hidden;
+}
+
+.logo{
+  width: 30%;
+  float: left;
+  text-align: center;
+  font-size: 30px;
+  margin-top: 10px;
+}
+
+.navbar-links{
+  width: 70%;
+  float: right;
+}
+
+ul{
+  text-align: center;
+}
+
+ul li{
+  display: inline;
+  padding-left:15px ;
+  font-size: 20px;
+  
+}
+
+ul li a{
+  text-decoration: none;
+  color: white;
+}
+
+.History-h1{
+  text-align: center;
+}
+
+.wiki-button{
+  text-align: center;
+  margin-top: 25px;
+}
+
+.wiki-button a{
+  text-decoration: none;
+  padding: 10px;
+  color: #999;
+  font-size: 25px;
+  border: 2px solid black ;
+}
+
+
+.footer{
+  background-color: #999;
+  overflow: hidden;
+  margin-top: 25px;
+  text-align: center;
+  
+}
