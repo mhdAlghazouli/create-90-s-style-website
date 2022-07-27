@@ -1,5 +1,5 @@
 body{
-  background-color: white;
+  background-color: #555;
 }
 
 .container{
@@ -39,4 +39,46 @@ ul li{
 ul li a{
   text-decoration: none;
   color: white;
+}
+
+.body-content{
+  
+  overflow: hidden;
+  
+}
+.home-image{
+  width: 60%;
+  float: left;
+  margin-top: 25px;
+  overflow: hidden;
+}
+
+.home-text{
+  float: right;
+  width: 30%;
+  text-align: center;
+  font-size: 18px;
+  margin-top: 40px;
+  
+}
+
+.wiki-button{
+  text-align: center;
+  margin-top: 25px;
+}
+
+.wiki-button a{
+  text-decoration: none;
+  padding: 10px;
+  color: #999;
+  font-size: 25px;
+  border: 2px solid black ;
+}
+
+.footer{
+  background-color: #999;
+  overflow: hidden;
+  margin-top: 25px;
+  text-align: center;
+  
 }
